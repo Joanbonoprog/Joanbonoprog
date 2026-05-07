@@ -74,7 +74,7 @@ I'm currently learning and exploring:
 
 <div align="center"; style="justify-content: center;" >
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bono-joan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanbonoprog/)
 
 <table style="justify-content: center;" >
    <td width="50%">
