@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="1584" height="396" alt="Banner Github Joan Bono" src="https://github.com/user-attachments/assets/4269a30e-c4c3-49af-a61f-0defcd3e38c8" />
+<img width="1584" height="396" alt="Banner Github" src="https://github.com/user-attachments/assets/5e3f9e56-bc23-45ab-bb29-4938e77ada59" />
+
 
 </div>
 
