@@ -1,0 +1,78 @@
+<svg xmlns="http://w3.org" viewBox="0 0 1584 396" width="100%" height="100%">
+  <!-- Fondo Oscuro Base -->
+  <rect width="100%" height="100%" fill="#0B0F19"/>
+
+  <!-- Cuadrícula Tecnológica de Fondo (Mayor opacidad para dar textura) -->
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#1E293B" stroke-width="0.8" opacity="0.5"/>
+    </pattern>
+    
+    <!-- Degradado de los Textos -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#E2E8F0"/>
+    </linearGradient>
+
+    <!-- Degradados de los Nodos (Brillantes) -->
+    <linearGradient id="kotlin-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9366FF"/>
+      <stop offset="100%" stop-color="#7F52FF"/>
+    </linearGradient>
+    <linearGradient id="android-cyan" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- DECORACIÓN: Grafo de arquitectura extendido y prominente (Ocupa desde X=750 hasta el final) -->
+  <g opacity="0.85">
+    <!-- Líneas Principales Gruesas y Brillantes -->
+    <line x1="850" y1="220" x2="1000" y2="100" stroke="#7F52FF" stroke-width="2.5" opacity="0.6" />
+    <line x1="1000" y1="100" x2="1220" y2="80" stroke="#38BDF8" stroke-width="2" opacity="0.5" />
+    <line x1="1000" y1="100" x2="1140" y2="240" stroke="#7F52FF" stroke-width="3" opacity="0.7" />
+    <line x1="850" y1="220" x2="980" y2="320" stroke="#38BDF8" stroke-width="2" opacity="0.4" />
+    <line x1="980" y1="320" x2="1140" y2="240" stroke="#38BDF8" stroke-width="2.5" opacity="0.6" />
+    <line x1="1140" y1="240" x2="1350" y2="180" stroke="#7F52FF" stroke-width="2.5" opacity="0.6" />
+    <line x1="1220" y1="80" x2="1350" y2="180" stroke="#38BDF8" stroke-width="2" opacity="0.4" />
+    <line x1="1140" y1="240" x2="1280" y2="350" stroke="#1E293B" stroke-width="2" />
+    <line x1="1350" y1="180" x2="1480" y2="280" stroke="#1E293B" stroke-width="1.5" />
+
+    <!-- Nodos de Red / Puntos de Interconexión del Sistema -->
+    <circle cx="850" cy="220" r="6" fill="url(#android-cyan)" />
+    <circle cx="850" cy="220" r="18" fill="none" stroke="#38BDF8" stroke-width="1.5" opacity="0.3" />
+    
+    <circle cx="1000" cy="100" r="9" fill="url(#kotlin-purple)" />
+    <circle cx="1000" cy="100" r="24" fill="none" stroke="#7F52FF" stroke-width="1.5" opacity="0.3" />
+    
+    <circle cx="1220" cy="80" r="5" fill="#38BDF8" />
+    
+    <circle cx="980" cy="320" r="7" fill="url(#android-cyan)" />
+    <circle cx="980" cy="320" r="20" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.2" />
+    
+    <!-- Nodo Central de la Red (Gran tamaño) -->
+    <circle cx="1140" cy="240" r="14" fill="url(#kotlin-purple)" />
+    <circle cx="1140" cy="240" r="35" fill="none" stroke="#7F52FF" stroke-width="2" opacity="0.25" />
+    <circle cx="1140" cy="240" r="50" fill="none" stroke="#7F52FF" stroke-width="1" stroke-dasharray="4,4" opacity="0.2" />
+    
+    <circle cx="1350" cy="180" r="8" fill="url(#android-cyan)" />
+    <circle cx="1350" cy="180" r="22" fill="none" stroke="#38BDF8" stroke-width="1" opacity="0.25" />
+    
+    <circle cx="1280" cy="350" r="5" fill="#1E293B" stroke="#7F52FF" stroke-width="1" />
+    <circle cx="1480" cy="280" r="4" fill="#1E293B" />
+  </g>
+
+  <!-- BLOQUE DE TEXTO: Mayor contraste y escala -->
+  <g transform="translate(100, 0)">
+    <!-- Nombre Principal con degradado blanco/gris nítido -->
+    <text x="0" y="170" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" font-size="68" fill="url(#text-grad)" letter-spacing="-1.5px">Joan Bono Frigols</text>
+    
+    <!-- Subtítulo Principal de Rol -->
+    <text x="5" y="225" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="600" font-size="22" fill="#E2E8F0" letter-spacing="0.5px">Java &amp; Kotlin Software Developer</text>
+    
+    <!-- Áreas Core (Subido de tamaño a 16px y con color Cian/Android para contrastar mejor con el fondo) -->
+    <text x="5" y="265" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" font-size="16" fill="#38BDF8" letter-spacing="4px">MOBILE  •  BACKEND  •  AI INTEGRATION</text>
+  </g>
+</svg>
