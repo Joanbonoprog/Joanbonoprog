@@ -58,7 +58,7 @@ Actualmente estoy buscando una oportunidad profesional donde pueda seguir desarr
 <tr>
 <td width="50%" align="center">
 
-<a href="LINK_APP_PROTOTYPE_CREATOR">
+<a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 <img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
 </a>
 
@@ -70,7 +70,7 @@ Aplicación multiplataforma para crear prototipados inteactivos
 
 <br>
 
-<a href="LINK_APP_PROTOTYPE_CREATOR">
+<a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 View project →
 </a>
 
@@ -78,7 +78,7 @@ View project →
 
 <td width="50%" align="center">
 
-<a href="LINK_LIVE_FOOTBALL">
+<a href="https://github.com/Joanbonoprog/LiveFootball">
 <img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
 </a>
 
@@ -90,7 +90,7 @@ Aplicación centrada en el manejo de partidos en tiempo real con una experiencia
 
 <br>
 
-<a href="LINK_LIVE_FOOTBALL">
+<a href="https://github.com/Joanbonoprog/LiveFootball">
 View project →
 </a>
 
@@ -169,7 +169,7 @@ I'm currently looking for a professional opportunity where I can continue growin
 <tr>
 <td width="50%" align="center">
 
-<a href="LINK_APP_PROTOTYPE_CREATOR">
+<a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 <img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
 </a>
 
@@ -181,7 +181,7 @@ AI-powered multiplatform app for creating interactive app prototyping.
 
 <br>
 
-<a href="LINK_APP_PROTOTYPE_CREATOR">
+<a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 View project →
 </a>
 
@@ -189,7 +189,7 @@ View project →
 
 <td width="50%" align="center">
 
-<a href="LINK_LIVE_FOOTBALL">
+<a href="https://github.com/Joanbonoprog/LiveFootball">
 <img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
 </a>
 
@@ -201,7 +201,7 @@ Live football tracking app focused on real-time match updates and an intuitive m
 
 <br>
 
-<a href="LINK_LIVE_FOOTBALL">
+<a href="https://github.com/Joanbonoprog/LiveFootball">
 View project →
 </a>
 
