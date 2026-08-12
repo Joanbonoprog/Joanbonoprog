@@ -62,12 +62,13 @@ Actualmente estoy buscando una oportunidad profesional donde pueda seguir desarr
 <br>
 
 <a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
-<img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
+<img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="140" alt="App Prototype Creator">
 </a>
 
 ### App Prototype Creator
 
-Aplicación multiplataforma para crear prototipados inteactivos
+Aplicación multiplataforma para crear prototipados interactivos.
+
 
 **Kotlin · KMP · Compose Multiplatform · SQLDelight · AI**
 
@@ -84,14 +85,14 @@ View project →
 <br>
 
 <a href="https://github.com/Joanbonoprog/LiveFootball">
-<img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
+<img src="LINK_ICON_LIVE_FOOTBALL.png" width="160" alt="Live Football">
 </a>
 
 ### Live Football
+Aplicación de Android centrada en el manejo de partidos en tiempo real.
 
-Aplicación centrada en el manejo de partidos en tiempo real con una experiencia movil intuitiva.
 
-**Java · XML Schema · SQLight **
+**Java · XML Schema · SQLight**
 
 <br>
 
@@ -177,7 +178,7 @@ I'm currently looking for a professional opportunity where I can continue growin
 <br>
 
 <a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
-<img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
+<img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="140" alt="App Prototype Creator">
 </a>
 
 ### App Prototype Creator
@@ -199,12 +200,12 @@ View project →
 <br>
 
 <a href="https://github.com/Joanbonoprog/LiveFootball">
-<img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
+<img src="LINK_ICON_LIVE_FOOTBALL.png" width="160" alt="Live Football">
 </a>
 
 ### Live Football
 
-Live football tracking app focused on real-time match updates and an intuitive mobile experience.
+Android app focused on real-time match updates.
 
 **Java · XML Schema · SQLight**
 
