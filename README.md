@@ -56,7 +56,10 @@ Actualmente estoy buscando una oportunidad profesional donde pueda seguir desarr
 
 <table>
 <tr>
+ 
 <td width="50%" align="center">
+ 
+<br>
 
 <a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 <img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
@@ -77,6 +80,8 @@ View project →
 </td>
 
 <td width="50%" align="center">
+ 
+<br>
 
 <a href="https://github.com/Joanbonoprog/LiveFootball">
 <img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
@@ -169,6 +174,8 @@ I'm currently looking for a professional opportunity where I can continue growin
 <tr>
 <td width="50%" align="center">
 
+<br>
+
 <a href="https://github.com/Joanbonoprog/App-Prototipe-Creator">
 <img src="LINK_ICON_APP_PROTOTYPE_CREATOR.png" height="120" alt="App Prototype Creator">
 </a>
@@ -189,6 +196,8 @@ View project →
 
 <td width="50%" align="center">
 
+<br>
+
 <a href="https://github.com/Joanbonoprog/LiveFootball">
 <img src="LINK_ICON_LIVE_FOOTBALL.png" width="120" alt="Live Football">
 </a>
@@ -204,7 +213,6 @@ Live football tracking app focused on real-time match updates and an intuitive m
 <a href="https://github.com/Joanbonoprog/LiveFootball">
 View project →
 </a>
-
 </td>
 </tr>
 </table>
