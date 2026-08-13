@@ -1,4 +1,3 @@
-
 ![Banner](./Banner.svg)
 
 
@@ -7,20 +6,20 @@
 <p>
  <a href="https://joanbonoprog.es">
   <img src="./globe.svg" alt="Portfolio" height="20">
-   <strong>  JOANBONOPROG.ES</strong>
+   <strong> joanbonoprog.es </strong>
 </a>
 </p>
 
 <p>
   <a href="https://www.linkedin.com/in/joanbonoprog/">
   <img src="./linkedin.svg" alt="LinkedIn" height="20">
-    <strong> /linkedin.com/in/joanbonoprog</strong>
+    <strong> linkedin.com/in/joanbonoprog </strong>
 </a>
 </p>
 
 <p>
   <img src="./gmail.svg" alt="Email" height="20">
-  <strong>  joanbonoprog@gmail.com</strong>
+  <strong> joanbonoprog@gmail.com </strong>
 </p>
 
 ---
@@ -30,11 +29,11 @@
 
 ## Sobre mí
 
-Soy desarrollador de software especializado en **Java y Kotlin**, con interés en desarrollo móvil, backend e integración de IA.
+Soy un **Software Developer** enfocado en el ecosistema **Kotlin y Java**, con experiencia en **desarrollo móvil (Android)**, **Kotlin Multiplatform (KMP)** e **integración de IA Generativa** (LLMs).
 
-Me interesa especialmente crear aplicaciones con una arquitectura limpia, mantenible y orientada a resolver problemas reales.
+Aplico principios de **Clean Architecture** para construir soluciones mantenibles y escalables. Cuento con formación técnica especializada (DAM y Máster en IA) y busco siempre aportar valor real a través del software.
 
-Actualmente estoy buscando una oportunidad profesional donde pueda seguir desarrollándome como desarrollador y aportar mis conocimientos a un equipo de software.
+Actualmente busco mi próxima oportunidad profesional para incorporarme a un equipo técnico, a la vez que sigo ampliando mis capacidades backend con ecosistemas como **Spring Boot y Spring AI**.
 
 ## Especializaciones
 
@@ -92,7 +91,7 @@ View project →
 Aplicación de Android centrada en el manejo de partidos en tiempo real.
 
 
-**Java · XML Schema · SQLight**
+**Java · XML Schema · SQLite**
 
 <br>
 
@@ -108,35 +107,34 @@ View project →
   <a href="https://joanbonoprog.es">More projects and full case studies on my portfolio →</a>
 </p>
 
-Principales
-• Java
-• Kotlin
+<h4><strong>Principales</strong></h4>
+<p>• Java</p>
+<p>• Kotlin</p>
 
-Backend & Web
-• Spring Boot
-• Django
-• REST APIs
+<h4><strong>Backend & Web</strong></h4>
+<p>• Spring Boot (aprendiendo)</p>
+<p>• REST APIs</p>
 
-Movil & Multiplataforma
-• Android
-• Kotlin Multiplatform
-• Jetpack Compose
-• Capacitor
+<h4><strong>Movil & Multiplataforma</strong></h4>
+<p>• Android</p>
+<p>• Kotlin Multiplatform</p>
+<p>• Jetpack Compose</p>
 
-Bases de Datos
-• PostgreSQL
-• MySQL
-• SQLite
+<h4><strong>Bases de Datos</strong></h4>
+<p>• PostgreSQL</p>
+<p>• MySQL</p>
+<p>• SQLite</p>
 
-Adicionales
-• C#
+<h4><strong>Adicionales</strong></h4>
+<p>• C#</p>
 
 ## Aprendizaje continuo
 
-Actualmente estoy aprendiendo :
+Actualmente estoy aprendiendo y/o explorando:
 
-- Spring Boot (backend)
-- Desarrollo Android (Kotlin, Jetpack Compose)
+- Aprendiendo Spring Boot (backend)
+- Explorando Spring AI
+- Explorando Desarrollo Android/Multiplataforma (Kotlin, Jetpack Compose)
 
 </details>
 
@@ -147,11 +145,11 @@ Actualmente estoy aprendiendo :
 
 ## About Me
 
-I'm a software developer focused on **Java and Kotlin**, with an interest in mobile development, backend and AI integration.
+I'm a **Software Developer** focused on the **Kotlin and Java** ecosystems, with hands-on experience in **Mobile Development (Android)**, **Kotlin Multiplatform (KMP)**, and **Generative AI integration** (LLMs).
 
-I'm particularly interested in building applications with clean, maintainable architectures focused on solving real-world problems.
+I apply **Clean Architecture** principles to build maintainable and scalable solutions. I have specialized technical training (DAM and Master's in AI) and always seek to deliver real value through software.
 
-I'm currently looking for a professional opportunity where I can continue growing as a developer and contribute my skills to a software team.
+I'm currently looking for my next professional opportunity to join a technical team, while I continue to expand my backend capabilities with ecosystems like **Spring Boot and Spring AI**.
 
 ## Specializations
 
@@ -166,7 +164,7 @@ I'm currently looking for a professional opportunity where I can continue growin
 
 - Software Architecture
 - Innovative app development
-- Distributed  systems
+- Distributed systems
 - AI applied to software development
 
 ## Featured Projects
@@ -207,7 +205,7 @@ View project →
 
 Android app focused on real-time match updates.
 
-**Java · XML Schema · SQLight**
+**Java · XML Schema · SQLite**
 
 <br>
 
@@ -224,35 +222,35 @@ View project →
 
 ## Stack
 
-Primary
-• Java
-• Kotlin
 
-Backend & Web
-• Spring Boot
-• Django
-• REST APIs
+<h4><strong>Primary</strong></h4>
+<p>• Java</p>
+<p>• Kotlin</p>
 
-Mobile & Multiplatform
-• Android
-• Kotlin Multiplatform
-• Jetpack Compose
-• Capacitor
+<h4><strong>Backend & Web</strong></h4>
+<p>• Spring Boot (learning)</p>
+<p>• REST APIs</p>
 
-Databases
-• PostgreSQL
-• MySQL
-• SQLite
+<h4><strong>Mobile & Multiplatform</strong></h4>
+<p>• Android</p>
+<p>• Kotlin Multiplatform</p>
+<p>• Jetpack Compose</p>
 
-Additional
-• C#
+<h4><strong>Databases</strong></h4>
+<p>• PostgreSQL</p>
+<p>• MySQL</p>
+<p>• SQLite</p>
+
+<h4><strong>Additional</strong></h4>
+<p>• C#</p>
 
 ## Continuous Learning
 
-Currently learning and exploring:
+Currently learning and/or exploring:
 
-- Spring Boot (backend)
-- Android development (Kotlin, Jetpack Compose)
+- Learning Spring Boot (backend)
+- Exploring Spring AI
+- Exploring Android/Multiplatform development (Kotlin, Jetpack Compose)
 
 
 </details>
