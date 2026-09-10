@@ -18,6 +18,13 @@
 </p>
 
 <p>
+ <a href="https://gitlab.com/Joanbonoprog">
+  <img src="./gitlab.svg" alt="Portfolio" height="20">
+   <strong> https://gitlab.com/Joanbonoprog </strong>
+</a>
+</p>
+
+<p>
   <img src="./gmail.svg" alt="Email" height="20">
   <strong> joanbonoprog@gmail.com </strong>
 </p>
