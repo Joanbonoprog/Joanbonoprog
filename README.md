@@ -19,7 +19,7 @@
 
 <p>
  <a href="https://gitlab.com/Joanbonoprog">
-  <img src="./gitlab.svg" alt="Portfolio" height="45>
+  <img src="./gitlab.svg" alt="Portfolio" height="20>
    <strong> https://gitlab.com/Joanbonoprog </strong>
 </a>
 </p>
